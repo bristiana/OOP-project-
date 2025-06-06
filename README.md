@@ -148,19 +148,6 @@ try {
 }
 ```
 
-## 📁 Project Structure
-
-```
-festival-management-cpp/
-├── main.cpp                 # Main application entry
-├── README.md               # This file
-├── docs/
-│   ├── class-diagram.png   # UML class relationships
-│   └── features.md         # Detailed feature documentation
-└── examples/
-    ├── sample-data.txt     # Sample event data
-    └── usage-examples.cpp  # Code examples
-```
 
 ## 🎯 Learning Outcomes
 
